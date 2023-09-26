@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(28 25 23);
+    color: aliceblue;
+}
+
+.text-align{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
+}
+
+.row input{
+    width: 450px;
+    height: 30px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: RGB (145, 142, 133);
+    color: black;
+}
+
+
+.button{
+width: 100px;
+height: 50px;
+padding: 20px;
+font-size: 15px;
+margin: 0 3px;
+border: 2px solid black;
+border-radius: 9px;
+cursor: pointer;
+background-color: RGB(163, 168, 168);
+}
